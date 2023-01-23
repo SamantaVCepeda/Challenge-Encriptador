@@ -77,8 +77,8 @@ body{
   height: 18px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
-  font-size: 400;
-  font-weight: 12px;
+  font-size: 12px;
+  font-weight: 400;
   line-height: 150%;
   color: #495057;
 }
@@ -235,7 +235,7 @@ body{
     position: relative;
     font-family: 'Inter', sans-serif;
     width: 768px;
-    height: 1024;
+    height: 1024px;
     background-color: #f3f5fc;
   }
 
@@ -244,7 +244,7 @@ body{
     width: 31.09px;
     height: 50.58px;
     left: 40px;
-    top: 73.42;
+    top: 73.42%;
   }
 
   .vector{
